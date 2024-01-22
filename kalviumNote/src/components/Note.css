@@ -1,5 +1,5 @@
 *{
-    background-color: rgb(56,103,214);
+    background-color: violet;
     color: white;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
 }
@@ -17,21 +17,22 @@
     margin-bottom: 10px;
 }
 
-.input-text {
+.input-box {
     border: 2px solid rgb(71, 70, 70);
     width: 600px;
     height: 55vh;
     padding: 10px;
     font-size: 16px;
     outline: none;
+    color: black;
 }
 
-.output-text {
+.output-box {
     outline: none;
     min-height: 70vh;
     width: 500px;
     padding: 10px;
     font-size: 16px;
-    background-color: rgb(71, 70, 70);
+    background-color:black;
     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
 }
